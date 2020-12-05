@@ -1,0 +1,5 @@
+main.svelte-14kj1mg.svelte-14kj1mg{background-color:lawngreen;width:calc(100% - 30px);text-align:center;padding:1em;max-width:1240px;margin:0 auto}.svelte-14kj1mg.svelte-14kj1mg{box-sizing:border-box}h1.svelte-14kj1mg.svelte-14kj1mg{color:#000003;text-transform:uppercase;font-size:4em;font-weight:100}.chatbox.svelte-14kj1mg.svelte-14kj1mg{width:100%;height:50vh;padding:0 1em;text-align:left;background-color:#eee;overflow-y:scroll;overscroll-behavior-y:contain;scroll-snap-type:y proximity}.chatbox.svelte-14kj1mg p.svelte-14kj1mg{margin-top:0.5em;margin-bottom:0;padding-bottom:0.5em}.chatbox.svelte-14kj1mg>p.svelte-14kj1mg:last-child{scroll-snap-align:end}.inputbox.svelte-14kj1mg.svelte-14kj1mg{display:flex;margin-top:0.5em}.inputbox.svelte-14kj1mg input.svelte-14kj1mg{flex-grow:1}.state.svelte-14kj1mg.svelte-14kj1mg{font-size:2em;font-family:Verdana}.servermsg.svelte-14kj1mg.svelte-14kj1mg{color:#ff3e00
+  }.usermsg.svelte-14kj1mg.svelte-14kj1mg{color:black
+  }@media(min-width: 640px){main.svelte-14kj1mg.svelte-14kj1mg{max-width:none}}
+
+/*# sourceMappingURL=bundle.css.map */
